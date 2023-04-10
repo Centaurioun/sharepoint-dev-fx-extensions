@@ -3,7 +3,7 @@
 ## Summary
 This sample shows how you can redirect default SharePoint list forms (New,Edit,Display) to different pages.
 
-> As it's a hacky way of overriding default SharePoint behaviour I do not recommend using it in production.
+> As it's a hacky way of overriding default SharePoint behavior I do not recommend using it in production.
 > If you have more than one content types, you need to add Content Type column to the list views
 
 ![react-command-print](./assets/screenshot.gif)
@@ -57,4 +57,4 @@ Here's a debug URL for testing around this sample. **Updated based on your manif
 
 > Notice that better pictures and documentation will increase the sample usage and the value you are providing for others. Thanks for your submissions advance.
 
-<img src="https://pnptelemetry.azurewebsites.net/sp-dev-fx-extensions/samples/readme-template" />
+<img src="https://m365-visitor-stats.azurewebsites.net/sp-dev-fx-extensions/samples/readme-template" />
