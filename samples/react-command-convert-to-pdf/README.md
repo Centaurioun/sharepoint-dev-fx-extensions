@@ -28,8 +28,8 @@ pnp-ext-pdf-convert| Mikael Svenson ([@mikaelsvenson](https://twitter.com/mikael
 Version|Date|Comments
 -------|----|--------
 1.0| 2019| Initial release by Puzzlepart
-1.1| February 23, 2021| Moved and rebranded to PnP
-1.2| Octobar 30, 2022| Upgrade SPFx to version 1.12.1
+1.1| February 23, 2021| Moved and re-branded to PnP
+1.2| October 30, 2022| Upgrade SPFx to version 1.12.1
 
 ## Disclaimer
 
@@ -56,4 +56,4 @@ Here's a debug URL for testing around this sample.
 ?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&loadSPFX=true&customActions={"ea401ac9-3abc-4e27-b93b-09c9a0587ee9":{"location":"ClientSideExtension.ListViewCommandSet.CommandBar","properties":{}}}
 ```
 
-![](https://pnptelemetry.azurewebsites.net/sp-dev-fx-extensions/samples/react-command-convert-to-pdf)
+![](https://m365-visitor-stats.azurewebsites.net/sp-dev-fx-extensions/samples/react-command-convert-to-pdf)
