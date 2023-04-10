@@ -46,7 +46,7 @@ This project contains SharePoint Framework extensions that illustrates next feat
 * command set customizer
 * usage of Office UI Fabric React
 * rendering custom Office UI Fabric command bar items
-* rendering custom Office UI Fabric Buttom icons
+* rendering custom Office UI Fabric Button icons
 
 ## Building and debugging the code
 
@@ -70,4 +70,4 @@ On your SharePoint tenant:
 ?loadSPFX=true&debugManifestsFile=https://localhost:4321/temp/manifests.js&customActions={"811872a6-3a3b-4e58-8dca-c54c6cf4f9b6":{"location":"ClientSideExtension.ListViewCommandSet.CommandBar"}}
 ```
 
-![](https://pnptelemetry.azurewebsites.net/sp-dev-fx-extensions/samples/react-command-custom-command-bar)
+![](https://m365-visitor-stats.azurewebsites.net/sp-dev-fx-extensions/samples/react-command-custom-command-bar)
