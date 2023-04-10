@@ -6,7 +6,7 @@ Creating engagement and measuring the success of any intranet is always a challe
 
 Microsoft Clarity will gives you the recording of the sessions and heat maps of the user interaction with the site, this will help to find and fix the areas of your pages that are not working as you expect.
 
-Have a look to article [How to add Microsoft Clarity to modern SharePoint](https://sharepoint.handsontek.net/2020/12/06/add-microsoft-clarity-modern-sharepoint/) to get detailed intructions on how to deploy this solution to SharePoint.
+Have a look to article [How to add Microsoft Clarity to modern SharePoint](https://sharepoint.handsontek.net/2020/12/06/add-microsoft-clarity-modern-sharepoint/) to get detailed instructions on how to deploy this solution to SharePoint.
 
 ![Clarity](./assets/dashboard.gif)
 
@@ -72,4 +72,4 @@ For questions regarding this sample, [create a new question](https://github.com/
 
 Finally, if you have an idea for improvement, [make a suggestion](https://github.com/pnp/sp-dev-fx-extensions/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=suggestion.yml&sample=js-application-microsoft-clarity&authors=@joaoferreira&title=js-application-microsoft-clarity%20-%20).
 
-<img src="https://pnptelemetry.azurewebsites.net/sp-dev-fx-extensions/samples/js-application-microsoft-clarity" />
+<img src="https://m365-visitor-stats.azurewebsites.net/sp-dev-fx-extensions/samples/js-application-microsoft-clarity" />
