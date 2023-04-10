@@ -86,8 +86,8 @@ While it is not recommended to manipulate the SharePoint UI using it's DOM, this
 Description of the extension with possible additional details than in short summary.
 This extension illustrates the following concepts:
 
-- Can hide commmands from specific lists or libraries
+- Can hide commands from specific lists or libraries
 - Can hide commands from users who lack specific permissions.
 
 
-<img src="https://pnptelemetry.azurewebsites.net/sp-dev-fx-extensions/samples/js-command-hide-commands" />
+<img src="https://m365-visitor-stats.azurewebsites.net/sp-dev-fx-extensions/samples/js-command-hide-commands" />

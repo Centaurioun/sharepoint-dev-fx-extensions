@@ -2,7 +2,7 @@
 
 ## Summary
 
-This application extension alows user receive notifications from selected lists or libraries
+This application extension alow user receive notifications from selected lists or libraries
 
 ![myListNotifications](./assets/myListsNotifications.gif)
 <br/>
@@ -75,7 +75,7 @@ Description of the extension that expands upon high-level summary above.
 
 This extension illustrates the following concepts:
 
-- Use Miscrosoft Grapg API's to get activities from lists / Library
+- Use Microsoft Graph API's to get activities from lists / Library
 - Use Microsoft Graph Search to search lists / Library
 - Save custom settings on Apps OnDrive folder
 - Use SocketIO server of lists to get real time notifications
@@ -103,4 +103,4 @@ For questions regarding this sample, [create a new question](https://github.com/
 
 Finally, if you have an idea for improvement, [make a suggestion](https://github.com/pnp/sp-dev-fx-extensions/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=suggestion.yml&sample=react-application-my-lists-notifications&authors=@joaojmendes&title=react-application-my-lists-notifications%20-%20).
 
-<img src="https://pnptelemetry.azurewebsites.net/sp-dev-fx-extensions/samples/react-application-my-lists-notifications" />
+<img src="https://m365-visitor-stats.azurewebsites.net/sp-dev-fx-extensions/samples/react-application-my-lists-notifications" />

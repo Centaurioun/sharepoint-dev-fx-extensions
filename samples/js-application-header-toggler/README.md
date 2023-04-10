@@ -2,7 +2,7 @@
 
 ## Summary
 
-With the Modern Pages, majority of the screen's viewport is occupied by the Suite Bar and Header, which doesnt show the actual content of any intranet site.
+With the Modern Pages, majority of the screen's viewport is occupied by the Suite Bar and Header, which doesn't show the actual content of any intranet site.
 
 This application customizer adds a toggle button on all the Modern Pages which will toggle (show/hide) the Site Header, pulling the content to the top and giving more reading space for the users.
 ![react-command-print](./assets/screenshot.gif)
@@ -53,4 +53,4 @@ Here's a debug URL for testing around this sample. **Updated based on your manif
 ?debugManifestsFile=https://localhost:4321/temp/manifests.js&loadSPFX=true&customActions={"44d11daa-2628-4618-8f0b-0a6cdb71b040":{"location":"ClientSideExtension.ApplicationCustomizer","properties":{"testMessage":"Test message"}}}
 ```
 
-<img src="https://pnptelemetry.azurewebsites.net/sp-dev-fx-extensions/samples/js-application-header-toggler" />
+<img src="https://m365-visitor-stats.azurewebsites.net/sp-dev-fx-extensions/samples/js-application-header-toggler" />
