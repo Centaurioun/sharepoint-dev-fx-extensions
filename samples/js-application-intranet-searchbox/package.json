@@ -20,7 +20,7 @@
     "@types/webpack-env": "^1.13.1"
   },
   "devDependencies": {
-    "@microsoft/sp-build-web": "1.8.0",
+    "@microsoft/sp-build-web": "1.18.2",
     "@microsoft/sp-tslint-rules": "1.8.0",
     "tslint-microsoft-contrib": "6.2.0",
     "@microsoft/sp-module-interfaces": "1.8.0",
